@@ -1,0 +1,9 @@
+{
+  "name": "@beachbanners/format-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "1.29.0"
+  }
+}
